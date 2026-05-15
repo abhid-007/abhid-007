@@ -1,87 +1,71 @@
-<h1 align="center">Abhi Das</h1>
+<div align="center">
 
-<p align="center">
-  AI Engineer building intelligent systems that perceive, reason, remember, and act.
-</p>
+# abhi.exe
 
-<p align="center">
-  Agentic AI • LLM Infrastructure • Computer Vision • Scalable Backend Systems
-</p>
+```bash
+> booting profile...
 
----
-
-```python
-class Abhi:
-    role = "AI Engineer"
-
-    current_focus = {
-        "AI Systems": [
-            "Agentic workflows",
-            "Memory architectures",
-            "Context engineering",
-            "RAG pipelines",
-            "Autonomous decision systems"
-        ],
-
-        "Machine Learning": [
-            "LLMs",
-            "Computer Vision",
-            "Model training",
-            "Inference optimization"
-        ],
-
-        "Engineering": [
-            "Backend architecture",
-            "Real-time systems",
-            "Distributed workflows",
-            "Cloud deployment"
-        ]
-    }
-
-    philosophy = "Intelligence is an engineering problem."
+role: AI Engineer
+focus: agentic systems, llms, computer vision
+building: intelligent systems with memory, context, and agency
+status: quietly shipping
 ```
 
-### Core Stack
+<a href="https://www.linkedin.com/in/abhidas-007">linkedin</a> /
+<a href="https://x.com/AbhiDas_007">x</a>
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat&logo=huggingface)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy)
-![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy)
-
-**LLM / Agent Systems**
-![LangChain](https://img.shields.io/badge/LangChain-black?style=flat)
-![Redis](https://img.shields.io/badge/Redis-black?style=flat&logo=redis)
-![Neo4j](https://img.shields.io/badge/Neo4j-black?style=flat&logo=neo4j)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-black?style=flat&logo=amazondynamodb)
-
-**Backend / Systems**
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat&logo=githubactions)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io)
-
-**Cloud / Observability**
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-black?style=flat&logo=microsoftazure)
-![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=grafana)
+</div>
 
 ---
 
-### Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/abhidas-007">LinkedIn</a> •
-<a href="https://x.com/AbhiDas_007">X</a>
-</p>
+## ~/stack
+
+```yaml
+languages:
+  - Python
+  - SQL
+  - Bash
+  - C++
+
+ai_ml:
+  - PyTorch
+  - Transformers
+  - Hugging Face
+  - OpenCV
+  - NumPy
+  - SciPy
+
+agentic_systems:
+  - LangChain
+  - LangGraph
+  - RAG
+  - Redis
+  - Neo4j
+  - Vector Databases
+
+backend:
+  - FastAPI
+  - WebSockets
+  - PostgreSQL
+  - DynamoDB
+  - REST APIs
+
+infra:
+  - Docker
+  - AWS
+  - Azure
+  - GitHub Actions
+  - Linux
+  - Prometheus
+  - Grafana
+```
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=abhid-007&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=abhid-007&theme=transparent&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=abhid-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img src="https://streak-stats.demolab.com?user=abhid-007&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
